@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:windowBackground">@color/androidWindowBackground</item>
+        <item name="android:colorBackground">@color/androidcolorBackground</item>-->
+        <item name="android:textColor">@color/white</item>
+
+
+        <!-- used in appbar, app title and actionbar-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- used in status bar, battery,sim signals-->
+        <item name="colorPrimaryDark">@color/black</item>
+
+
+        <!-- accent color is used to tint various controls for example the progress bar, seek bar controls-->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

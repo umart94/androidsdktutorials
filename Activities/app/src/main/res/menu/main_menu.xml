@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/apk/res-auto"
+   >
+    <item android:id="@+id/action_settings"
+        android:icon="@drawable/baseline_settings_24"
+        compat:showAsAction="always"
+        android:orderInCategory="0"
+        android:title="@string/settings">
+
+<menu>
+
+            <item android:id="@+id/action_bluetoothon"
+                android:icon="@drawable/baseline_bluetooth_connected_black_18"
+                compat:showAsAction="always"
+                android:orderInCategory="1"
+                android:title="@string/bluetoothon"
+                />
+
+    <item android:id="@+id/action_bluetoothoff"
+        android:icon="@drawable/baseline_bluetooth_disabled_black_18"
+        compat:showAsAction="always"
+        android:orderInCategory="2"
+        android:title="@string/bluetoothoff"
+        />
+
+    <item android:id="@+id/action_wifion"
+        android:icon="@drawable/baseline_wifi_black_18"
+        compat:showAsAction="always"
+        android:orderInCategory="3"
+        android:title="@string/wifion"
+        />
+
+    <item android:id="@+id/action_wifioff"
+        android:icon="@drawable/baseline_wifi_off_black_18"
+        compat:showAsAction="always"
+        android:orderInCategory="4"
+        android:title="@string/wifioff"
+        />
+</menu>
+    </item>
+
+</menu>

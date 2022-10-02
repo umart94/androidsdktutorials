@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="countries_textdata">
+        <item
+            name="Andorra"
+            english_name="Andorra"
+            name_code="ad"
+            phone_code="376" ></item>
+        <item
+            name="United Arab Emirates (UAE)"
+            english_name="United Arab Emirates (UAE)"
+            name_code="ae"
+            phone_code="971" ></item>
+        <item
+            name="Afghanistan"
+            english_name="Afghanistan"
+            name_code="af"
+            phone_code="93" ></item>
+        <item
+            name="Antigua and Barbuda"
+            english_name="Antigua and Barbuda"
+            name_code="ag"
+            phone_code="1" ></item>
+        <item
+            name="Anguilla"
+            english_name="Anguilla"
+            name_code="ai"
+            phone_code="1" ></item>
+        <item
+            name="Albania"
+            english_name="Albania"
+            name_code="al"
+            phone_code="355" ></item>
+        <item
+            name="Armenia"
+            english_name="Armenia"
+            name_code="am"
+            phone_code="374" ></item>
+        <item
+            name="Angola"
+            english_name="Angola"
+            name_code="ao"
+            phone_code="244" ></item>
+        <item
+            name="Antarctica"
+            english_name="Antarctica"
+            name_code="aq"
+            phone_code="672" ></item>
+        <item
+            name="Argentina"
+            english_name="Argentina"
+            name_code="ar"
+            phone_code="54" ></item>
+        <item
+            name="American Samoa"
+            english_name="American Samoa"
+            name_code="as"
+            phone_code="1" ></item>
+        <item
+            name="Austria"
+            english_name="Austria"
+            name_code="at"
+            phone_code="43" ></item>
+        <item
+            name="Australia"
+            english_name="Australia"
+            name_code="au"
+            phone_code="61" ></item>
+        <item
+            name="Aruba"
+            english_name="Aruba"
+            name_code="aw"
+            phone_code="297" ></item>
+        <item
+            name="Åland Islands"
+            english_name="Åland Islands"
+            name_code="ax"
+            phone_code="358" ></item>
+        <item
+            name="Azerbaijan"
+            english_name="Azerbaijan"
+            name_code="az"
+            phone_code="994" ></item>
+        <item
+            name="Bosnia And Herzegovina"
+            english_name="Bosnia And Herzegovina"
+            name_code="ba"
+            phone_code="387" ></item>
+        <item
+            name="Barbados"
+            english_name="Barbados"
+            name_code="bb"
+            phone_code="1" ></item>
+        <item
+            name="Bangladesh"
+            english_name="Bangladesh"
+            name_code="bd"
+            phone_code="880" ></item>
+        <item
+            name="Belgium"
+            english_name="Belgium"
+            name_code="be"
+            phone_code="32" ></item>
+        <item
+            name="Burkina Faso"
+            english_name="Burkina Faso"
+            name_code="bf"
+            phone_code="226" ></item>
+        <item
+            name="Bulgaria"
+            english_name="Bulgaria"
+            name_code="bg"
+            phone_code="359" ></item>
+        <item
+            name="Bahrain"
+            english_name="Bahrain"
+            name_code="bh"
+            phone_code="973" ></item>
+        <item
+            name="Burundi"
+            english_name="Burundi"
+            name_code="bi"
+            phone_code="257" ></item>
+        <item
+            name="Benin"
+            english_name="Benin"
+            name_code="bj"
+            phone_code="229" ></item>
+        <item
+            name="Saint Barthélemy"
+            english_name="Saint Barthélemy"
+            name_code="bl"
+            phone_code="590" ></item>
+        <item
+            name="Bermuda"
+            english_name="Bermuda"
+            name_code="bm"
+            phone_code="1" ></item>
+        <item
+            name="Brunei Darussalam"
+            english_name="Brunei Darussalam"
+            name_code="bn"
+            phone_code="673" ></item>
+        <item
+            name="Bolivia, Plurinational State Of"
+            english_name="Bolivia, Plurinational State Of"
+            name_code="bo"
+            phone_code="591" ></item>
+        <item
+            name="Brazil"
+            english_name="Brazil"
+            name_code="br"
+            phone_code="55" ></item>
+        <item
+            name="Bahamas"
+            english_name="Bahamas"
+            name_code="bs"
+            phone_code="1" ></item>
+        <item
+            name="Bhutan"
+            english_name="Bhutan"
+            name_code="bt"
+            phone_code="975" ></item>
+        <item
+            name="Botswana"
+            english_name="Botswana"
+            name_code="bw"
+            phone_code="267" ></item>
+        <item
+            name="Belarus"
+            english_name="Belarus"
+            name_code="by"
+            phone_code="375" ></item>
+        <item
+            name="Belize"
+            english_name="Belize"
+            name_code="bz"
+            phone_code="501" ></item>
+        <item
+            name="Canada"
+            english_name="Canada"
+            name_code="ca"
+            phone_code="1" ></item>
+        <item
+            name="Cocos (keeling) Islands"
+            english_name="Cocos (keeling) Islands"
+            name_code="cc"
+            phone_code="61" ></item>
+        <item
+            name="Congo, The Democratic Republic Of The"
+            english_name="Congo, The Democratic Republic Of The"
+            name_code="cd"
+            phone_code="243" ></item>
+        <item
+            name="Central African Republic"
+            english_name="Central African Republic"
+            name_code="cf"
+            phone_code="236" ></item>
+        <item
+            name="Congo"
+            english_name="Congo"
+            name_code="cg"
+            phone_code="242" ></item>
+        <item
+            name="Switzerland"
+            english_name="Switzerland"
+            name_code="ch"
+            phone_code="41" ></item>
+        <item
+            name="Côte D'ivoire"
+            english_name="Côte D'ivoire"
+            name_code="ci"
+            phone_code="225" ></item>
+        <item
+            name="Cook Islands"
+            english_name="Cook Islands"
+            name_code="ck"
+            phone_code="682" ></item>
+        <item
+            name="Chile"
+            english_name="Chile"
+            name_code="cl"
+            phone_code="56" ></item>
+        <item
+            name="Cameroon"
+            english_name="Cameroon"
+            name_code="cm"
+            phone_code="237" ></item>
+        <item
+            name="China"
+            english_name="China"
+            name_code="cn"
+            phone_code="86" ></item>
+        <item
+            name="Colombia"
+            english_name="Colombia"
+            name_code="co"
+            phone_code="57" ></item>
+        <item
+            name="Costa Rica"
+            english_name="Costa Rica"
+            name_code="cr"
+            phone_code="506" ></item>
+        <item
+            name="Cuba"
+            english_name="Cuba"
+            name_code="cu"
+            phone_code="53" ></item>
+        <item
+            name="Cape Verde"
+            english_name="Cape Verde"
+            name_code="cv"
+            phone_code="238" ></item>
+        <item
+            name="Curaçao"
+            english_name="Curaçao"
+            name_code="cw"
+            phone_code="599" ></item>
+        <item
+            name="Christmas Island"
+            english_name="Christmas Island"
+            name_code="cx"
+            phone_code="61" ></item>
+        <item
+            name="Cyprus"
+            english_name="Cyprus"
+            name_code="cy"
+            phone_code="357" ></item>
+        <item
+            name="Czech Republic"
+            english_name="Czech Republic"
+            name_code="cz"
+            phone_code="420" ></item>
+        <item
+            name="Germany"
+            english_name="Germany"
+            name_code="de"
+            phone_code="49" ></item>
+        <item
+            name="Djibouti"
+            english_name="Djibouti"
+            name_code="dj"
+            phone_code="253" ></item>
+        <item
+            name="Denmark"
+            english_name="Denmark"
+            name_code="dk"
+            phone_code="45" ></item>
+        <item
+            name="Dominica"
+            english_name="Dominica"
+            name_code="dm"
+            phone_code="1" ></item>
+        <item
+            name="Dominican Republic"
+            english_name="Dominican Republic"
+            name_code="do"
+            phone_code="1" ></item>
+        <item
+            name="Algeria"
+            english_name="Algeria"
+            name_code="dz"
+            phone_code="213" ></item>
+        <item
+            name="Ecuador"
+            english_name="Ecuador"
+            name_code="ec"
+            phone_code="593" ></item>
+        <item
+            name="Estonia"
+            english_name="Estonia"
+            name_code="ee"
+            phone_code="372" ></item>
+        <item
+            name="Egypt"
+            english_name="Egypt"
+            name_code="eg"
+            phone_code="20" ></item>
+        <item
+            name="Eritrea"
+            english_name="Eritrea"
+            name_code="er"
+            phone_code="291" ></item>
+        <item
+            name="Spain"
+            english_name="Spain"
+            name_code="es"
+            phone_code="34" ></item>
+        <item
+            name="Ethiopia"
+            english_name="Ethiopia"
+            name_code="et"
+            phone_code="251" ></item>
+        <item
+            name="Finland"
+            english_name="Finland"
+            name_code="fi"
+            phone_code="358" ></item>
+        <item
+            name="Fiji"
+            english_name="Fiji"
+            name_code="fj"
+            phone_code="679" ></item>
+        <item
+            name="Falkland Islands (malvinas)"
+            english_name="Falkland Islands (malvinas)"
+            name_code="fk"
+            phone_code="500" ></item>
+        <item
+            name="Micronesia, Federated States Of"
+            english_name="Micronesia, Federated States Of"
+            name_code="fm"
+            phone_code="691" ></item>
+        <item
+            name="Faroe Islands"
+            english_name="Faroe Islands"
+            name_code="fo"
+            phone_code="298" ></item>
+        <item
+            name="France"
+            english_name="France"
+            name_code="fr"
+            phone_code="33" ></item>
+        <item
+            name="Gabon"
+            english_name="Gabon"
+            name_code="ga"
+            phone_code="241" ></item>
+        <item
+            name="United Kingdom"
+            english_name="United Kingdom"
+            name_code="gb"
+            phone_code="44" ></item>
+        <item
+            name="Grenada"
+            english_name="Grenada"
+            name_code="gd"
+            phone_code="1" ></item>
+        <item
+            name="Georgia"
+            english_name="Georgia"
+            name_code="ge"
+            phone_code="995" ></item>
+        <item
+            name="French Guyana"
+            english_name="French Guyana"
+            name_code="gf"
+            phone_code="594" ></item>
+        <item
+            name="Guernsey"
+            english_name="Guernsey"
+            name_code="gg"
+            phone_code="44" ></item>
+        <item
+            name="Ghana"
+            english_name="Ghana"
+            name_code="gh"
+            phone_code="233" ></item>
+        <item
+            name="Gibraltar"
+            english_name="Gibraltar"
+            name_code="gi"
+            phone_code="350" ></item>
+        <item
+            name="Greenland"
+            english_name="Greenland"
+            name_code="gl"
+            phone_code="299" ></item>
+        <item
+            name="Gambia"
+            english_name="Gambia"
+            name_code="gm"
+            phone_code="220" ></item>
+        <item
+            name="Guinea"
+            english_name="Guinea"
+            name_code="gn"
+            phone_code="224" ></item>
+        <item
+            name="Guadeloupe"
+            english_name="Guadeloupe"
+            name_code="gp"
+            phone_code="590" ></item>
+        <item
+            name="Equatorial Guinea"
+            english_name="Equatorial Guinea"
+            name_code="gq"
+            phone_code="240" ></item>
+        <item
+            name="Greece"
+            english_name="Greece"
+            name_code="gr"
+            phone_code="30" ></item>
+        <item
+            name="Guatemala"
+            english_name="Guatemala"
+            name_code="gt"
+            phone_code="502" ></item>
+        <item
+            name="Guam"
+            english_name="Guam"
+            name_code="gu"
+            phone_code="1" ></item>
+        <item
+            name="Guinea-bissau"
+            english_name="Guinea-bissau"
+            name_code="gw"
+            phone_code="245" ></item>
+        <item
+            name="Guyana"
+            english_name="Guyana"
+            name_code="gy"
+            phone_code="592" ></item>
+        <item
+            name="Hong Kong"
+            english_name="Hong Kong"
+            name_code="hk"
+            phone_code="852" ></item>
+        <item
+            name="Honduras"
+            english_name="Honduras"
+            name_code="hn"
+            phone_code="504" ></item>
+        <item
+            name="Croatia"
+            english_name="Croatia"
+            name_code="hr"
+            phone_code="385" ></item>
+        <item
+            name="Haiti"
+            english_name="Haiti"
+            name_code="ht"
+            phone_code="509" ></item>
+        <item
+            name="Hungary"
+            english_name="Hungary"
+            name_code="hu"
+            phone_code="36" ></item>
+        <item
+            name="Indonesia"
+            english_name="Indonesia"
+            name_code="id"
+            phone_code="62" ></item>
+        <item
+            name="Ireland"
+            english_name="Ireland"
+            name_code="ie"
+            phone_code="353" ></item>
+        <item
+            name="Israel"
+            english_name="Israel"
+            name_code="il"
+            phone_code="972" ></item>
+        <item
+            name="Isle Of Man"
+            english_name="Isle Of Man"
+            name_code="im"
+            phone_code="44" ></item>
+        <item
+            name="Iceland"
+            english_name="Iceland"
+            name_code="is"
+            phone_code="354" ></item>
+        <item
+            name="India"
+            english_name="India"
+            name_code="in"
+            phone_code="91" ></item>
+        <item
+            name="British Indian Ocean Territory"
+            english_name="British Indian Ocean Territory"
+            name_code="io"
+            phone_code="246" ></item>
+        <item
+            name="Iraq"
+            english_name="Iraq"
+            name_code="iq"
+            phone_code="964" ></item>
+        <item
+            name="Iran, Islamic Republic Of"
+            english_name="Iran, Islamic Republic Of"
+            name_code="ir"
+            phone_code="98" ></item>
+        <item
+            name="Italy"
+            english_name="Italy"
+            name_code="it"
+            phone_code="39" ></item>
+        <item
+            name="Jersey"
+            english_name="Jersey"
+            name_code="je"
+            phone_code="44" ></item>
+        <item
+            name="Jamaica"
+            english_name="Jamaica"
+            name_code="jm"
+            phone_code="1" ></item>
+        <item
+            name="Jordan"
+            english_name="Jordan"
+            name_code="jo"
+            phone_code="962" ></item>
+        <item
+            name="Japan"
+            english_name="Japan"
+            name_code="jp"
+            phone_code="81" ></item>
+        <item
+            name="Kenya"
+            english_name="Kenya"
+            name_code="ke"
+            phone_code="254" ></item>
+        <item
+            name="Kyrgyzstan"
+            english_name="Kyrgyzstan"
+            name_code="kg"
+            phone_code="996" ></item>
+        <item
+            name="Cambodia"
+            english_name="Cambodia"
+            name_code="kh"
+            phone_code="855" ></item>
+        <item
+            name="Kiribati"
+            english_name="Kiribati"
+            name_code="ki"
+            phone_code="686" ></item>
+        <item
+            name="Comoros"
+            english_name="Comoros"
+            name_code="km"
+            phone_code="269" ></item>
+        <item
+            name="Saint Kitts and Nevis"
+            english_name="Saint Kitts and Nevis"
+            name_code="kn"
+            phone_code="1" ></item>
+        <item
+            name="North Korea"
+            english_name="North Korea"
+            name_code="kp"
+            phone_code="850" ></item>
+        <item
+            name="South Korea"
+            english_name="South Korea"
+            name_code="kr"
+            phone_code="82" ></item>
+        <item
+            name="Kuwait"
+            english_name="Kuwait"
+            name_code="kw"
+            phone_code="965" ></item>
+        <item
+            name="Cayman Islands"
+            english_name="Cayman Islands"
+            name_code="ky"
+            phone_code="1" ></item>
+        <item
+            name="Kazakhstan"
+            english_name="Kazakhstan"
+            name_code="kz"
+            phone_code="7" ></item>
+        <item
+            name="Lao People's Democratic Republic"
+            english_name="Lao People's Democratic Republic"
+            name_code="la"
+            phone_code="856" ></item>
+        <item
+            name="Lebanon"
+            english_name="Lebanon"
+            name_code="lb"
+            phone_code="961" ></item>
+        <item
+            name="Saint Lucia"
+            english_name="Saint Lucia"
+            name_code="lc"
+            phone_code="1" ></item>
+        <item
+            name="Liechtenstein"
+            english_name="Liechtenstein"
+            name_code="li"
+            phone_code="423" ></item>
+        <item
+            name="Sri Lanka"
+            english_name="Sri Lanka"
+            name_code="lk"
+            phone_code="94" ></item>
+        <item
+            name="Liberia"
+            english_name="Liberia"
+            name_code="lr"
+            phone_code="231" ></item>
+        <item
+            name="Lesotho"
+            english_name="Lesotho"
+            name_code="ls"
+            phone_code="266" ></item>
+        <item
+            name="Lithuania"
+            english_name="Lithuania"
+            name_code="lt"
+            phone_code="370" ></item>
+        <item
+            name="Luxembourg"
+            english_name="Luxembourg"
+            name_code="lu"
+            phone_code="352" ></item>
+        <item
+            name="Latvia"
+            english_name="Latvia"
+            name_code="lv"
+            phone_code="371" ></item>
+        <item
+            name="Libya"
+            english_name="Libya"
+            name_code="ly"
+            phone_code="218" ></item>
+        <item
+            name="Morocco"
+            english_name="Morocco"
+            name_code="ma"
+            phone_code="212" ></item>
+        <item
+            name="Monaco"
+            english_name="Monaco"
+            name_code="mc"
+            phone_code="377" ></item>
+        <item
+            name="Moldova, Republic Of"
+            english_name="Moldova, Republic Of"
+            name_code="md"
+            phone_code="373" ></item>
+        <item
+            name="Montenegro"
+            english_name="Montenegro"
+            name_code="me"
+            phone_code="382" ></item>
+        <item
+            name="Saint Martin"
+            english_name="Saint Martin"
+            name_code="mf"
+            phone_code="590" ></item>
+        <item
+            name="Madagascar"
+            english_name="Madagascar"
+            name_code="mg"
+            phone_code="261" ></item>
+        <item
+            name="Marshall Islands"
+            english_name="Marshall Islands"
+            name_code="mh"
+            phone_code="692" ></item>
+        <item
+            name="Macedonia (FYROM)"
+            english_name="Macedonia (FYROM)"
+            name_code="mk"
+            phone_code="389" ></item>
+        <item
+            name="Mali"
+            english_name="Mali"
+            name_code="ml"
+            phone_code="223" ></item>
+        <item
+            name="Myanmar"
+            english_name="Myanmar"
+            name_code="mm"
+            phone_code="95" ></item>
+        <item
+            name="Mongolia"
+            english_name="Mongolia"
+            name_code="mn"
+            phone_code="976" ></item>
+        <item
+            name="Macau"
+            english_name="Macau"
+            name_code="mo"
+            phone_code="853" ></item>
+        <item
+            name="Northern Mariana Islands"
+            english_name="Northern Mariana Islands"
+            name_code="mp"
+            phone_code="1" ></item>
+        <item
+            name="Martinique"
+            english_name="Martinique"
+            name_code="mq"
+            phone_code="596" ></item>
+        <item
+            name="Mauritania"
+            english_name="Mauritania"
+            name_code="mr"
+            phone_code="222" ></item>
+        <item
+            name="Montserrat"
+            english_name="Montserrat"
+            name_code="ms"
+            phone_code="1" ></item>
+        <item
+            name="Malta"
+            english_name="Malta"
+            name_code="mt"
+            phone_code="356" ></item>
+        <item
+            name="Mauritius"
+            english_name="Mauritius"
+            name_code="mu"
+            phone_code="230" ></item>
+        <item
+            name="Maldives"
+            english_name="Maldives"
+            name_code="mv"
+            phone_code="960" ></item>
+        <item
+            name="Malawi"
+            english_name="Malawi"
+            name_code="mw"
+            phone_code="265" ></item>
+        <item
+            name="Mexico"
+            english_name="Mexico"
+            name_code="mx"
+            phone_code="52" ></item>
+        <item
+            name="Malaysia"
+            english_name="Malaysia"
+            name_code="my"
+            phone_code="60" ></item>
+        <item
+            name="Mozambique"
+            english_name="Mozambique"
+            name_code="mz"
+            phone_code="258" ></item>
+        <item
+            name="Namibia"
+            english_name="Namibia"
+            name_code="na"
+            phone_code="264" ></item>
+        <item
+            name="New Caledonia"
+            english_name="New Caledonia"
+            name_code="nc"
+            phone_code="687" ></item>
+        <item
+            name="Niger"
+            english_name="Niger"
+            name_code="ne"
+            phone_code="227" ></item>
+        <item
+            name="Norfolk Islands"
+            english_name="Norfolk Islands"
+            name_code="nf"
+            phone_code="672" ></item>
+        <item
+            name="Nigeria"
+            english_name="Nigeria"
+            name_code="ng"
+            phone_code="234" ></item>
+        <item
+            name="Nicaragua"
+            english_name="Nicaragua"
+            name_code="ni"
+            phone_code="505" ></item>
+        <item
+            name="Netherlands"
+            english_name="Netherlands"
+            name_code="nl"
+            phone_code="31" ></item>
+        <item
+            name="Norway"
+            english_name="Norway"
+            name_code="no"
+            phone_code="47" ></item>
+        <item
+            name="Nepal"
+            english_name="Nepal"
+            name_code="np"
+            phone_code="977" ></item>
+        <item
+            name="Nauru"
+            english_name="Nauru"
+            name_code="nr"
+            phone_code="674" ></item>
+        <item
+            name="Niue"
+            english_name="Niue"
+            name_code="nu"
+            phone_code="683" ></item>
+        <item
+            name="New Zealand"
+            english_name="New Zealand"
+            name_code="nz"
+            phone_code="64" ></item>
+        <item
+            name="Oman"
+            english_name="Oman"
+            name_code="om"
+            phone_code="968" ></item>
+        <item
+            name="Panama"
+            english_name="Panama"
+            name_code="pa"
+            phone_code="507" ></item>
+        <item
+            name="Peru"
+            english_name="Peru"
+            name_code="pe"
+            phone_code="51" ></item>
+        <item
+            name="French Polynesia"
+            english_name="French Polynesia"
+            name_code="pf"
+            phone_code="689" ></item>
+        <item
+            name="Papua New Guinea"
+            english_name="Papua New Guinea"
+            name_code="pg"
+            phone_code="675" ></item>
+        <item
+            name="Philippines"
+            english_name="Philippines"
+            name_code="ph"
+            phone_code="63" ></item>
+        <item
+            name="Pakistan"
+            english_name="Pakistan"
+            name_code="pk"
+            phone_code="92" ></item>
+        <item
+            name="Poland"
+            english_name="Poland"
+            name_code="pl"
+            phone_code="48" ></item>
+        <item
+            name="Saint Pierre And Miquelon"
+            english_name="Saint Pierre And Miquelon"
+            name_code="pm"
+            phone_code="508" ></item>
+        <item
+            name="Pitcairn Islands"
+            english_name="Pitcairn Islands"
+            name_code="pn"
+            phone_code="870" ></item>
+        <item
+            name="Puerto Rico"
+            english_name="Puerto Rico"
+            name_code="pr"
+            phone_code="1" ></item>
+        <item
+            name="Palestine"
+            english_name="Palestine"
+            name_code="ps"
+            phone_code="970" ></item>
+        <item
+            name="Portugal"
+            english_name="Portugal"
+            name_code="pt"
+            phone_code="351" ></item>
+        <item
+            name="Palau"
+            english_name="Palau"
+            name_code="pw"
+            phone_code="680" ></item>
+        <item
+            name="Paraguay"
+            english_name="Paraguay"
+            name_code="py"
+            phone_code="595" ></item>
+        <item
+            name="Qatar"
+            english_name="Qatar"
+            name_code="qa"
+            phone_code="974" ></item>
+        <item
+            name="Réunion"
+            english_name="Réunion"
+            name_code="re"
+            phone_code="262" ></item>
+        <item
+            name="Romania"
+            english_name="Romania"
+            name_code="ro"
+            phone_code="40" ></item>
+        <item
+            name="Serbia"
+            english_name="Serbia"
+            name_code="rs"
+            phone_code="381" ></item>
+        <item
+            name="Russian Federation"
+            english_name="Russian Federation"
+            name_code="ru"
+            phone_code="7" ></item>
+        <item
+            name="Rwanda"
+            english_name="Rwanda"
+            name_code="rw"
+            phone_code="250" ></item>
+        <item
+            name="Saudi Arabia"
+            english_name="Saudi Arabia"
+            name_code="sa"
+            phone_code="966" ></item>
+        <item
+            name="Solomon Islands"
+            english_name="Solomon Islands"
+            name_code="sb"
+            phone_code="677" ></item>
+        <item
+            name="Seychelles"
+            english_name="Seychelles"
+            name_code="sc"
+            phone_code="248" ></item>
+        <item
+            name="Sudan"
+            english_name="Sudan"
+            name_code="sd"
+            phone_code="249" ></item>
+        <item
+            name="Sweden"
+            english_name="Sweden"
+            name_code="se"
+            phone_code="46" ></item>
+        <item
+            name="Singapore"
+            english_name="Singapore"
+            name_code="sg"
+            phone_code="65" ></item>
+        <item
+            name="Saint Helena, Ascension And Tristan Da Cunha"
+            english_name="Saint Helena, Ascension And Tristan Da Cunha"
+            name_code="sh"
+            phone_code="290" ></item>
+        <item
+            name="Slovenia"
+            english_name="Slovenia"
+            name_code="si"
+            phone_code="386" ></item>
+        <item
+            name="Slovakia"
+            english_name="Slovakia"
+            name_code="sk"
+            phone_code="421" ></item>
+        <item
+            name="Sierra Leone"
+            english_name="Sierra Leone"
+            name_code="sl"
+            phone_code="232" ></item>
+        <item
+            name="San Marino"
+            english_name="San Marino"
+            name_code="sm"
+            phone_code="378" ></item>
+        <item
+            name="Senegal"
+            english_name="Senegal"
+            name_code="sn"
+            phone_code="221" ></item>
+        <item
+            name="Somalia"
+            english_name="Somalia"
+            name_code="so"
+            phone_code="252" ></item>
+        <item
+            name="Suriname"
+            english_name="Suriname"
+            name_code="sr"
+            phone_code="597" ></item>
+        <item
+            name="South Sudan"
+            english_name="South Sudan"
+            name_code="ss"
+            phone_code="211" ></item>
+        <item
+            name="Sao Tome And Principe"
+            english_name="Sao Tome And Principe"
+            name_code="st"
+            phone_code="239" ></item>
+        <item
+            name="El Salvador"
+            english_name="El Salvador"
+            name_code="sv"
+            phone_code="503" ></item>
+        <item
+            name="Sint Maarten"
+            english_name="Sint Maarten"
+            name_code="sx"
+            phone_code="1" ></item>
+        <item
+            name="Syrian Arab Republic"
+            english_name="Syrian Arab Republic"
+            name_code="sy"
+            phone_code="963" ></item>
+        <item
+            name="Swaziland"
+            english_name="Swaziland"
+            name_code="sz"
+            phone_code="268" ></item>
+        <item
+            name="Turks and Caicos Islands"
+            english_name="Turks and Caicos Islands"
+            name_code="tc"
+            phone_code="1" ></item>
+        <item
+            name="Chad"
+            english_name="Chad"
+            name_code="td"
+            phone_code="235" ></item>
+        <item
+            name="Togo"
+            english_name="Togo"
+            name_code="tg"
+            phone_code="228" ></item>
+        <item
+            name="Thailand"
+            english_name="Thailand"
+            name_code="th"
+            phone_code="66" ></item>
+        <item
+            name="Tajikistan"
+            english_name="Tajikistan"
+            name_code="tj"
+            phone_code="992" ></item>
+        <item
+            name="Tokelau"
+            english_name="Tokelau"
+            name_code="tk"
+            phone_code="690" ></item>
+        <item
+            name="Timor-leste"
+            english_name="Timor-leste"
+            name_code="tl"
+            phone_code="670" ></item>
+        <item
+            name="Turkmenistan"
+            english_name="Turkmenistan"
+            name_code="tm"
+            phone_code="993" ></item>
+        <item
+            name="Tunisia"
+            english_name="Tunisia"
+            name_code="tn"
+            phone_code="216" ></item>
+        <item
+            name="Tonga"
+            english_name="Tonga"
+            name_code="to"
+            phone_code="676" ></item>
+        <item
+            name="Turkey"
+            english_name="Turkey"
+            name_code="tr"
+            phone_code="90" ></item>
+        <item
+            name="Trinidad &amp; Tobago"
+            english_name="Trinidad &amp; Tobago"
+            name_code="tt"
+            phone_code="1" ></item>
+        <item
+            name="Tuvalu"
+            english_name="Tuvalu"
+            name_code="tv"
+            phone_code="688" ></item>
+        <item
+            name="Taiwan"
+            english_name="Taiwan"
+            name_code="tw"
+            phone_code="886" ></item>
+        <item
+            name="Tanzania, United Republic Of"
+            english_name="Tanzania, United Republic Of"
+            name_code="tz"
+            phone_code="255" ></item>
+        <item
+            name="Ukraine"
+            english_name="Ukraine"
+            name_code="ua"
+            phone_code="380" ></item>
+        <item
+            name="Uganda"
+            english_name="Uganda"
+            name_code="ug"
+            phone_code="256" ></item>
+        <item
+            name="United States"
+            english_name="United States (USA)"
+            name_code="us"
+            phone_code="1" ></item>
+        <item
+            name="Uruguay"
+            english_name="Uruguay"
+            name_code="uy"
+            phone_code="598" ></item>
+        <item
+            name="Uzbekistan"
+            english_name="Uzbekistan"
+            name_code="uz"
+            phone_code="998" ></item>
+        <item
+            name="Holy See (vatican City State)"
+            english_name="Holy See (vatican City State)"
+            name_code="va"
+            phone_code="379" ></item>
+        <item
+            name="Saint Vincent &amp; The Grenadines"
+            english_name="Saint Vincent &amp; The Grenadines"
+            name_code="vc"
+            phone_code="1" ></item>
+        <item
+            name="Venezuela, Bolivarian Republic Of"
+            english_name="Venezuela, Bolivarian Republic Of"
+            name_code="ve"
+            phone_code="58" ></item>
+        <item
+            name="British Virgin Islands"
+            english_name="British Virgin Islands"
+            name_code="vg"
+            phone_code="1" ></item>
+        <item
+            name="US Virgin Islands"
+            english_name="US Virgin Islands"
+            name_code="vi"
+            phone_code="1" ></item>
+        <item
+            name="Vietnam"
+            english_name="Vietnam"
+            name_code="vn"
+            phone_code="84" ></item>
+        <item
+            name="Vanuatu"
+            english_name="Vanuatu"
+            name_code="vu"
+            phone_code="678" ></item>
+        <item
+            name="Wallis And Futuna"
+            english_name="Wallis And Futuna"
+            name_code="wf"
+            phone_code="681" ></item>
+        <item
+            name="Samoa"
+            english_name="Samoa"
+            name_code="ws"
+            phone_code="685" ></item>
+        <item
+            name="Kosovo"
+            english_name="Kosovo"
+            name_code="xk"
+            phone_code="383" ></item>
+        <item
+            name="Yemen"
+            english_name="Yemen"
+            name_code="ye"
+            phone_code="967" ></item>
+        <item
+            name="Mayotte"
+            english_name="Mayotte"
+            name_code="yt"
+            phone_code="262" ></item>
+        <item
+            name="South Africa"
+            english_name="South Africa"
+            name_code="za"
+            phone_code="27" ></item>
+        <item
+            name="Zambia"
+            english_name="Zambia"
+            name_code="zm"
+            phone_code="260" ></item>
+        <item
+            name="Zimbabwe"
+            english_name="Zimbabwe"
+            name_code="zw"
+            phone_code="263" ></item>
+        </string-array>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:id="@+id/secondLayout"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/headline"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textColor="@color/white"
+        android:textAllCaps="true"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:id="@+id/secondactivityurrentCycle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OnCreate()"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+
+        android:textColor="@color/white"
+        android:textAllCaps="true"
+        android:textSize="25sp"
+        />
+
+    <WebView
+        android:id="@+id/activity2Webview"
+        android:layout_width="match_parent"
+        android:layout_height="350sp"
+        android:background="@color/black"></WebView>
+
+    <Button
+        android:id="@+id/btngoToThirdActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button3string"
+        android:textSize="15sp"
+
+        ></Button>
+
+    <Button
+        android:id="@+id/chromeCustomTabBtn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/custombtnstring"
+        android:textSize="15sp"
+
+        ></Button>
+
+    <EditText
+        android:id="@+id/extraTextView2"
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:background="@color/white"></EditText>
+
+
+</LinearLayout>
